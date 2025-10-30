@@ -1,3 +1,4 @@
 Draft weekly digest
 Refactor helper functions
 Summarize quota usage
+Verify proper logging of all critical application events
